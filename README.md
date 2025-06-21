@@ -57,3 +57,12 @@
 ```bash
 git clone https://github.com/Olembo/process_improvement_tracker.git
 cd process_improvement_tracker
+
+1. Install dependencies (Python 3.8+):****
+  pip install pandas matplotlib seaborn
+2. Run the notebook:
+  jupyter notebook notebook.ipynb
+3. View report:
+  Open report.pdf for the full narrative and annotated figures.
+
+
